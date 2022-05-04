@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.exe
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.deps.json
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\bin\Debug\net5.0\StaticExercise5422.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\refint\StaticExercise5422.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\StaticExercise5422.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\StaticExercise5422\StaticExercise5422\obj\Debug\net5.0\ref\StaticExercise5422.dll
